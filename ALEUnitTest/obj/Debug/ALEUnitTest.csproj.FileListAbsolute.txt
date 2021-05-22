@@ -1,0 +1,17 @@
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\bin\Debug\ALEUnitTest.dll
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\bin\Debug\ALEUnitTest.pdb
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\bin\Debug\ALE1.exe
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\bin\Debug\ALE1.pdb
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\bin\Debug\ALE1.exe.config
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\obj\Debug\ALEUnitTest.csprojAssemblyReference.cache
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\obj\Debug\ALEUnitTest.csproj.CoreCompileInputs.cache
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\obj\Debug\ALEUnitTest.csproj.CopyComplete
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\obj\Debug\ALEUnitTest.dll
+D:\o C cu\Study\Electives\ALE1\ALEUnitTest\obj\Debug\ALEUnitTest.pdb

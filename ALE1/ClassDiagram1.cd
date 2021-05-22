@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ALE1.Propositions.And" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Propositions\And.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALE1.Propositions.BiImplication" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Propositions\BiImplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALE1.Propositions.Implication" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Propositions\Implication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ALE1.Propositions.NAND" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Propositions\NAND.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

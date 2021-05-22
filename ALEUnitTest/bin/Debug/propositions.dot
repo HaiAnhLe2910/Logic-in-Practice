@@ -1,0 +1,80 @@
+graph logic {
+   node [ fontname = "Arial" ]
+  node1 [ label = "|" ]
+   node1 -- node2
+  node2 [ label = "B" ]
+   node1 -- node3
+  node3 [ label = ">" ]
+   node3 -- node6
+  node6 [ label = "&" ]
+   node6 -- node12
+  node12 [ label = "|" ]
+   node12 -- node24
+  node24 [ label = "A" ]
+   node12 -- node25
+  node25 [ label = "C" ]
+   node6 -- node13
+  node13 [ label = "|" ]
+   node13 -- node26
+  node26 [ label = "C" ]
+   node13 -- node27
+  node27 [ label = ">" ]
+   node27 -- node54
+  node54 [ label = "A" ]
+   node27 -- node55
+  node55 [ label = "A" ]
+   node3 -- node7
+  node7 [ label = ">" ]
+   node7 -- node14
+  node14 [ label = "&" ]
+   node14 -- node28
+  node28 [ label = "&" ]
+   node28 -- node56
+  node56 [ label = "|" ]
+   node56 -- node112
+  node112 [ label = "&" ]
+   node112 -- node224
+  node224 [ label = "B" ]
+   node112 -- node225
+  node225 [ label = "&" ]
+   node225 -- node450
+  node450 [ label = "B" ]
+   node225 -- node451
+  node451 [ label = "B" ]
+   node56 -- node113
+  node113 [ label = "~" ]
+   node113 -- node226
+  node226 [ label = "B" ]
+   node28 -- node57
+  node57 [ label = "&" ]
+   node57 -- node114
+  node114 [ label = "A" ]
+   node57 -- node115
+  node115 [ label = "=" ]
+   node115 -- node230
+  node230 [ label = "A" ]
+   node115 -- node231
+  node231 [ label = "~" ]
+   node231 -- node462
+  node462 [ label = "|" ]
+   node462 -- node924
+  node924 [ label = "A" ]
+   node462 -- node925
+  node925 [ label = "A" ]
+   node14 -- node29
+  node29 [ label = "B" ]
+   node7 -- node15
+  node15 [ label = "|" ]
+   node15 -- node30
+  node30 [ label = "&" ]
+   node30 -- node60
+  node60 [ label = "=" ]
+   node60 -- node120
+  node120 [ label = "C" ]
+   node60 -- node121
+  node121 [ label = "C" ]
+   node30 -- node61
+  node61 [ label = "C" ]
+   node15 -- node31
+  node31 [ label = "C" ]
+}
